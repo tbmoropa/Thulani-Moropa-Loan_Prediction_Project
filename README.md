@@ -1,1 +1,1 @@
-# Thulani-Moropa-Loan_Prediction_Project
+# Thulani-Moropa-Projects
